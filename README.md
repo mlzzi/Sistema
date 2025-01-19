@@ -6,7 +6,7 @@ Este projeto é um estudo acadêmico de um sistema para controle e gerenciamento
 ---
 
 ## 📊 Diagrama do Banco de Dados
-![Diagrama do Banco de Dados](main/oficina.png)
+![Diagrama do Banco de Dados](oficina.png)
 
 ---
 
