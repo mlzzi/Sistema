@@ -20,3 +20,29 @@ Este projeto é um estudo acadêmico de um sistema para controle e gerenciamento
 5. **📋 Ordem de Serviço**: Detalha os serviços realizados, incluindo valores de mão de obra e peças utilizadas.
 6. **💰 Valores Mão de Obra**: Lista os serviços realizados e seus respectivos valores.
 7. **🔩 Peça**: Armazena as peças utilizadas em cada ordem de serviço, com preços e quantidade em estoque.
+
+---
+
+## 🔍 Consultas Implementadas
+
+** Recuperação de dados simples
+** Filtros por tipo de veículo
+** Junções entre tabelas
+** Cálculos de totais gastos por cliente
+** Análise de ordens de serviço
+** Estatísticas de mecânicos e equipes
+
+
+## 💾 Tecnologias
+
+** Banco de Dados: MySQL
+** Modelagem: Modelo Entidade-Relacionamento
+
+
+## 🚀 Funcionalidades
+
+** Cadastro de clientes e veículos
+** Gerenciamento de equipes e mecânicos
+** Controle de ordens de serviço
+** Registro de serviços e peças
+** Rastreamento do status de manutenção
