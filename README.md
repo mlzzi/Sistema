@@ -25,24 +25,23 @@ Este projeto é um estudo acadêmico de um sistema para controle e gerenciamento
 
 ## 🔍 Consultas Implementadas
 
-** Recuperação de dados simples **
-** Filtros por tipo de veículo
-** Junções entre tabelas
-** Cálculos de totais gastos por cliente
-** Análise de ordens de serviço
-** Estatísticas de mecânicos e equipes
+* Recuperação de dados simples
+* Filtros por tipo de veículo
+* Junções entre tabelas
+* Cálculos de totais gastos por cliente
+* Análise de ordens de serviço
+* Estatísticas de mecânicos e equipes
 
 
 ## 💾 Tecnologias
 
-** Banco de Dados: MySQL
-** Modelagem: Modelo Entidade-Relacionamento
-
+* Banco de Dados: MySQL
+* Modelagem: Modelo Entidade-Relacionamento
 
 ## 🚀 Funcionalidades
 
-** Cadastro de clientes e veículos
-** Gerenciamento de equipes e mecânicos
-** Controle de ordens de serviço
-** Registro de serviços e peças
-** Rastreamento do status de manutenção
+* Cadastro de clientes e veículos
+* Gerenciamento de equipes e mecânicos
+* Controle de ordens de serviço
+* Registro de serviços e peças
+* Rastreamento do status de manutenção
