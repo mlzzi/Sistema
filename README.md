@@ -25,7 +25,7 @@ Este projeto é um estudo acadêmico de um sistema para controle e gerenciamento
 
 ## 🔍 Consultas Implementadas
 
-** Recuperação de dados simples
+** Recuperação de dados simples **
 ** Filtros por tipo de veículo
 ** Junções entre tabelas
 ** Cálculos de totais gastos por cliente
